@@ -242,4 +242,4 @@ dribble.html
 
 
 ## RESULT:
-The Project for responsive web design using Bootstrap is completed successfully.
+The Project for responsive web design using Bootstrap is completed successfully. 
